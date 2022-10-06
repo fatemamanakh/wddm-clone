@@ -1,1 +1,1 @@
-console.log("Fatema Manakh")
+console.log("Fatema Manakh");
